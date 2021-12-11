@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubshres&show_icons=true&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubshres&show_icons=true&theme=github_dark)  
 
 ![Profile views](https://gpvc.arturio.dev/shubshres)  
 
