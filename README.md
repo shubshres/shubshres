@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a Junior at the University of Texas at Arlington and am expecting to graduate in Fall 2022. I am currently working as an undergraduate researcher at UTA's Heracleia lab where I have worked with ROS Kinetic and have assisted PhD Students in their research and am also an incoming System Integration Engineer Intern at Lockheed Martin. I love coding and problem solving and being able to work on projects that I am able to use every day! Welcome to my GitHub page!
+I am currently a Junior at the University of Texas at Arlington and am expecting to graduate in Fall 2022. I am currently working as an undergraduate researcher at UTA's Heracleia lab. I love coding and problem solving and being able to work on projects that I am able to use every day! Welcome to my GitHub page!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubshres&show_icons=true&theme=github_dark)  
 
