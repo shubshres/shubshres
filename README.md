@@ -1,5 +1,5 @@
 ### hello 👋
-My name is Shubhayu Shrestha and I am a Junior studying Software Engineering at the University of Texas at Arlington expecting to graduate in Fall 2022. I am currently working as an undergraduate researcher at UTA's Heracleia lab. I love coding and problem solving and being able to work on projects that I am able to use every day! Welcome to my GitHub page!
+My name is Shubhayu Shrestha and I am a Junior studying Software Engineering at the University of Texas at Arlington expecting to graduate in Fall 2022. I am currently working as an Undergraduate Researcher at UTA's Heracleia lab. I love coding and problem solving and being able to work on projects that I am able to use every day! Welcome to my GitHub page!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubshres&show_icons=true&theme=github_dark)  
 
