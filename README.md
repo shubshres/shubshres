@@ -7,7 +7,6 @@ My name is Shubhayu Shrestha and I am currently a senior studying Software Engin
 
 # 
 ### Current Project: BinBuddy
-https://github.com/shubshres/Garbage-Route
 
 Working on a cross platform application that allows neighborhood residents to track their local garbage truck and receive notifications when their bin has been collected. This application also supports waste management companies by supplying routes for drivers and easier management of vehicle maintenance. 
 # 
