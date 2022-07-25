@@ -1,5 +1,5 @@
 ## hello 👋
-My name is Shubhayu Shrestha and I am currently a senior studying Software Engineering at the University of Texas at Arlington expecting to graduate in Fall 2022. I am currently working as an Undergraduate Researcher at UTA's Heracleia lab and am in incoming Software Engineer Intern at Lockheed Martin working on Full Stack Development. I have a strong passion for programming and problem solving and I love being able to apply those skills on large scale projects! Welcome to my GitHub page!
+My name is Shubhayu Shrestha and I am currently a senior studying Software Engineering at the University of Texas at Arlington expecting to graduate in Fall 2022. I am formerly worked as an Undergraduate Researcher at UTA's Heracleia lab and am currently working as a Software Engineer Intern at Lockheed Martin working on Full Stack Development. I have a strong passion for programming, problem solving, and UI/UX design and I love being able to apply those skills on large scale projects! Welcome to my GitHub page!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubshres&show_icons=true&theme=github_dark)  
 
