@@ -6,3 +6,7 @@ My name is Shubhayu Shrestha and I am currently a Full Stack Engineer at Fidelit
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shubshres)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shubhayu-shrestha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCqNr0D1AXxFv2aKp8tgWYYw/featured)   -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubshres&layout=compact)
+
+⬆️ No idea why it says PHP hahaha ⬆️
+
+I actually hate PHP!
