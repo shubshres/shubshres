@@ -1,5 +1,5 @@
 ## hello 👋
-My name is Shubhayu Shrestha and I am currently a Full Stack Engineer at Fidelity Investments and an MSCS Student at UT Austin! I recently graduated from the University of Texas at Arlington in December 2022 where I studied Software Engineering. I formerly worked as an Undergraduate Researcher at UTA's Heracleia lab and as a as a Full Stack Engineer Intern at Lockheed Martin. I have a strong passion for programming, problem solving, game development, and UI/UX design and I love being able to apply those skills on large scale projects! Welcome to my GitHub page!
+My name is Shubhayu Shrestha and I am a Full Stack Engineer and an MSCS Student at UT Austin! I recently graduated from the University of Texas at Arlington in December 2022 where I studied Software Engineering. I formerly worked as an Undergraduate Researcher at UTA's Heracleia lab, as a Full Stack Engineer Intern at Lockheed Martin, and most recently, as a Full Stack Engineer at Fidelity Investments. I have a strong passion for programming, problem solving, game development, and UI/UX design and I love being able to apply those skills on large scale projects! Welcome to my GitHub page!
 
 ![](https://komarev.com/ghpvc/?username=shubshres)
 
@@ -9,7 +9,4 @@ My name is Shubhayu Shrestha and I am currently a Full Stack Engineer at Fidelit
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubshres&layout=compact)
 
-⬆️ No idea why it says PHP hahaha ⬆️
-
-I actually hate PHP!
 -->
